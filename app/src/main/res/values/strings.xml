@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ReduxDemoApp</string>
+    <string name="list_view_toolbar_title">Items List</string>
+    <string name="item_details_toolbar_title">Items Details</string>
+    <string name="edit_text_hint">Item name</string>
+    <string name="create_item_dialog_title">Create new Item</string>
+    <string name="create_item_dialog_positive_buttton">Create</string>
+    <string name="cancel">Cancel</string>
+    <string name="create">Create</string>
+    <string name="create_new_list_item">Create new List Item</string>
+</resources>
